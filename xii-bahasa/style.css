@@ -1,0 +1,57 @@
+body {
+  background-color: #4a4f4a;
+}
+
+h1 {
+  color: lime;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Exo 2";
+}
+
+#tujuan {
+  color: white;
+  font-size: 17px;
+  font-family: "Exo 2";
+}
+
+#isi_tujuan {
+  color: lime;
+  font-family: "Exo 2";
+  font-size: 15.5px;
+}
+
+#drml {
+  color: white;
+  font-size: 17px;
+  font-family: "Exo 2";
+}
+
+/**ABSENSI PKWU**/
+
+#pkwu {
+  color: white;
+  font-family:"Exo 2";
+  font-size: 14px;
+}
+
+.link {
+  font-size: 13px;
+  font-family: "Exo 2";
+}
+
+.link:hover {
+  color: lime;
+}
+
+.link:link {
+  color: lime;
+}
+
+.link:active {
+  color: lime;
+}
+
+.link:visited {
+  color: lime;
+}
